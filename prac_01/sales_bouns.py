@@ -4,6 +4,7 @@ If sales are under $1,000, the user gets a 10% bonus.
 If sales are $1,000 or over, the bonus is 15%.
 """
 
+
 BONUS_ON_SALES = 1000
 MINIMUM_DISCOUNT_RATE = 0.10
 MAXIMUM_DISCOUNT_RATE = 0.15
