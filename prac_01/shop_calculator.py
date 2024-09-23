@@ -19,3 +19,4 @@ if total_price >= PRICE_FOR_DISCOUNT:
     total_price *= DISCOUNT_RATE
 print(f"Total price for {items} items is $ {total_price:.2f}")
 
+
