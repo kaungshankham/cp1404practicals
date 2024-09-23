@@ -3,6 +3,7 @@ CP1404/CP5632 - Practical
 Broken program to determine score status
 """
 
+
 # TODO: Fix this!
 EXCELLENT_SCORE = 90
 PASS_SCORE = 50
