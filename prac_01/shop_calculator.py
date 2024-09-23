@@ -2,6 +2,7 @@
 Shop Calculator
 """
 
+
 DISCOUNT_RATE = 0.1
 PRICE_FOR_DISCOUNT = 100
 total_price = 0
