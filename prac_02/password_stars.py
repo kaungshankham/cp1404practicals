@@ -24,3 +24,4 @@ def display_stars(password):
     print("*" * len(password))
 
 
+main()
