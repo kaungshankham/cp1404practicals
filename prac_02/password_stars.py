@@ -1,3 +1,7 @@
+"""
+Password
+"""
+
 PASSWORD_LENGTH = 10
 
 
