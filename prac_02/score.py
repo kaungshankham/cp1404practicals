@@ -7,11 +7,13 @@ PASS_SCORE = 50
 
 
 def main():
+    """Get score from the users and display their status."""
     score = get_score()
     determine_status(score)
 
 
 def determine_status(score):
+    """Determine the status."""
     if score < 0 or score > 100:
         print("Invalid score")
     else:
@@ -25,8 +27,6 @@ def determine_status(score):
 
 
 def get_score():
+    """Get score from user."""
     score = float(input("Enter score: "))
     return score
-
-
-main()
