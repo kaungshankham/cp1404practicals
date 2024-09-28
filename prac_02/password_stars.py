@@ -9,9 +9,9 @@ def main():
 
 def get_invalid_password():
     """Check the password meets the PASSWORD_LENGTH."""
-    password = get_password()
+    password = input("Enter password: ")
     while len(password) < PASSWORD_LENGTH:
-        password = get_password()
+        password = input("Enter password: ")
     return password
 
 
@@ -20,7 +20,3 @@ def display_stars(password):
     print("*" * len(password))
 
 
-def get_password():
-    """Get password from user."""
-    password = input("Enter password: ")
-    return password
