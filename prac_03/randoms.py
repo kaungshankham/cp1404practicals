@@ -29,6 +29,7 @@ Random
 
 """Write code, not a comment, to produce a random number between 1 and 100 inclusive."""
 
+
 import random
 
 print(random.uniform(1, 100))
