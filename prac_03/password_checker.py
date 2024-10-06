@@ -16,8 +16,7 @@ def main():
     print("\t1 or more uppercase characters")
     print("\t1 or more lowercase characters")
     print("\t1 or more numbers")
-    if IS_SPECIAL_CHARACTER_REQUIRED:
-        print("\tand 1 or more special characters: ", SPECIAL_CHARACTERS)
+    print("\tand 1 or more special characters: ", SPECIAL_CHARACTERS)
     password = input("> ")
     while not is_valid_password(password):
         print("Invalid password!")
