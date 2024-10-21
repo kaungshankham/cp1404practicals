@@ -23,3 +23,4 @@ while state_code != "":
     state_code = input("Enter short state: ").upper()
     for state, name in CODE_TO_NAME.items():
         print(f"{state:3} is {name}")
+
