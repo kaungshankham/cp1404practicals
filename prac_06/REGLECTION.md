@@ -22,3 +22,5 @@ I've occasionally skipped over lecture videos, assuming familiarity with the top
 ## What is one request you have or change you suggest for this subject and/or your IT degree overall?
 
 I would appreciate more feedback opportunities on practical assignments and projects. Regular, detailed critiques from instructors would help in identifying specific areas of improvement and in understanding how to apply theoretical knowledge more effectively. This could be particularly beneficial in enhancing our learning experience by allowing us to refine our skills continuously throughout the course.
+
+
