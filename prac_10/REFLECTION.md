@@ -35,19 +35,11 @@ For each one, write a short explanation of what was good about your review.
 
 ### Good Code Review 1
 
-[]()
+[https://github.com/Farhan394826/cp1404practicals/pull/4]
 
 ### Explanation
 
-...
-
-### Good Code Review 2
-
-[]()
-
-### Explanation
-
-...
+The feedback provided is comprehensive and clearly structured, highlighting both the strengths and areas for improvement in your Python scripts. The review emphasizes the positive aspects such as good documentation and effective use of inheritance, which acknowledges your proficiency and encourages continued good practices. It also constructively addresses areas needing enhancement like error handling, input validation, and commit message quality. This balanced approach not only affirms the quality of your work but also provides actionable advice for elevating your coding and version control skills. The suggestion to review specific educational resources (like the lecture video from week 2) offers a direct pathway to improve specific skills, making the feedback both practical and educational.
 
 ## Practicals
 
