@@ -35,7 +35,7 @@ For each one, write a short explanation of what was good about your review.
 
 ### Good Code Review 1
 
-[https://github.com/Farhan394826/cp1404practicals/pull/4]
+[Code Review](https://github.com/Farhan394826/cp1404practicals/pull/4)
 
 ### Explanation
 
